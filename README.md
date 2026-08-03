@@ -4,7 +4,7 @@
 >
 > 从产品参数、家庭清洁场景与渠道信任出发，研究 Roborock 如何在新加坡建立清晰的购买理由，并形成可向东南亚复制的 GTM 路径。
 
-[在线阅读研究网页](https://gracetang0925.github.io/roborock-sea-gtm/) · [下载 Roborock GTM 报告](deliverables/Roborock东南亚市场进入研究_新加坡_GTM_2026.pptx) · [下载商用清洁机器人报告](deliverables/东南亚清洁机器人市场进入研究_汤夏禛_新加坡_2026.pptx)
+[在线阅读研究网页](https://gracetang0925.github.io/roborock-sea-gtm/) · [下载 Roborock GTM 报告](deliverables/Roborock东南亚市场进入研究_新加坡_GTM_2026.pptx) · [下载商用清洁机器人报告](deliverables/东南亚清洁机器人市场进入研究_新加坡_2026.pptx)
 
 ![Roborock 东南亚市场进入研究封面](assets/roborock-gtm-cover.png)
 
@@ -161,7 +161,7 @@
 
 ### B. 东南亚商用清洁机器人市场进入研究
 
-[下载 PPT](deliverables/东南亚清洁机器人市场进入研究_汤夏禛_新加坡_2026.pptx)
+[下载 PPT](deliverables/东南亚清洁机器人市场进入研究_新加坡_2026.pptx)
 
 9 页行业扫描，作为相邻场景补充，重点包括：
 
@@ -200,10 +200,9 @@
 ├── assets/
 │   ├── roborock-gtm-cover.png
 │   └── commercial-cleaning-cover.png
-├── deliverables/
-│   ├── Roborock东南亚市场进入研究_新加坡_GTM_2026.pptx
-│   └── 东南亚清洁机器人市场进入研究_汤夏禛_新加坡_2026.pptx
-└── report/                    # 现有在线报告资源
+└── deliverables/
+    ├── Roborock东南亚市场进入研究_新加坡_GTM_2026.pptx
+    └── 东南亚清洁机器人市场进入研究_新加坡_2026.pptx
 ```
 
 ## Resume-ready Description
@@ -216,6 +215,6 @@
 
 ## Author
 
-**Grace 汤夏禛**<br>
+**Grace Tang**<br>
 Nanyang Technological University, Singapore<br>
 [nie26.tx4120@e.ntu.edu.sg](mailto:nie26.tx4120@e.ntu.edu.sg)
